@@ -18,27 +18,8 @@ Build a simple REST API with endpoints for CRUD operations on books (no database
 9. Test endpoints with Postman.
 
 ### 🎉 Outcome
-Understand REST API basics, Express routing, HTTP methods, and JSON handling.
+Understand REST API, Express routing, HTTP methods, and JSON handling.
 
-## 📋 Interview Questions
-1. What is REST?
-2. What are HTTP methods and their use?
-3. How do you handle routes in Express?
-4. What is middleware in Express?
-5. How do you parse JSON in Express?
-6. What status codes do you use for CRUD?
-7. How would you handle errors in Express?
-8. What is CORS?
-9. Explain request and response objects in Express.
-10. How do you test API endpoints?
-
-## 🔑 Key Concepts
-- REST API
-- Express.js
-- HTTP methods
-- JSON
-- Middleware
-- CRUD
 
 ## 🚀 Getting Started
 
